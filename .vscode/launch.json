@@ -12,7 +12,7 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": ["--logdir","../logdir/atari_pong/dreamerv2/1", 
-            "--configs", "atari", "--task", "atari_assault"]
+            "--configs", "atari","debug", "--task", "atari_pong"]
         }
     ]
 }
