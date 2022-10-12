@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe5d350-ff25-4be6-b614-6082da2092bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,6 +186,7 @@
       <workItem from="1664704170292" duration="466192000" />
       <workItem from="1665453602552" duration="398000" />
       <workItem from="1665454415109" duration="2203000" />
+      <workItem from="1665457562510" duration="734000" />
     </task>
     <servers />
   </component>
