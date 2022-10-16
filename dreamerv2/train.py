@@ -126,7 +126,7 @@ def main():
     make_async_env = lambda mode: common.Async(
         functools.partial(make_env, mode), config.envs_parallel)
     train_envs = [make_async_env('train') for _ in range(config.envs)]
-    eval_envs = [make_async_env('eval') for _ in range(eval_envs)]
+    eval_envs = [make_async_env('eval') for _ in range(num_eval_envs)]
   act_space = train_envs[0].act_space
   obs_space = train_envs[0].obs_space
   train_driver = common.Driver(train_envs)
